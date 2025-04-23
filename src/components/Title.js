@@ -4,6 +4,7 @@ export const Title = () => {
       <h1>OpenGram</h1>
       <h2>Your Pictures</h2>
       <p>Unleash Your Visual Storytelling with OpenGram: Capture. Share. Inspire.</p>
+      <p>Unleash Your Visual Storytelling with OpenGram: Capture. Share. Inspire.</p>
     </div>
   )
 }
